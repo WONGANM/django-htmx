@@ -14,5 +14,5 @@ python-dateutil==2.8.2
     # via faker
 six==1.16.0
     # via python-dateutil
-sqlparse==0.4.3
+sqlparse==0.5.0
     # via django
