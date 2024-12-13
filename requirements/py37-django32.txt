@@ -65,7 +65,7 @@ coverage==7.2.1 \
     --hash=sha256:f3d07edb912a978915576a776756069dede66d012baa503022d3a0adba1b6afa \
     --hash=sha256:fac6343bae03b176e9b58104a9810df3cdccd5cfed19f99adfa807ffbf43cf9b
     # via -r requirements.in
-django==3.2.18 \
+django==4.2.17 \
     --hash=sha256:08208dfe892eb64fff073ca743b3b952311104f939e7f6dae954fe72dcc533ba \
     --hash=sha256:4d492d9024c7b3dfababf49f94511ab6a58e2c9c3c7207786f1ba4eb77750706
     # via -r requirements.in
